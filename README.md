@@ -1,9 +1,3 @@
-Member:
-	Junjie Guo
-	Weiwei Kong
-	Zhouyang Gao
-	
-
 used to compile the proj:
     g++ src/*.cc -I include
 
